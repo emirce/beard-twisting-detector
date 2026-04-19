@@ -1,4 +1,4 @@
-# Beart twisting detector
+# Beard twisting detector
 A python script that uses OpenCV and MediaPipe to detected whether the user is twisting or playing with his beard and sending system notifications on detection.
 
 Background: This script was written for me to help me tackle a very bad and annoying habit of constantly plucking my beard while working, watching TV etc. Maybe it can help some of you as well :D
