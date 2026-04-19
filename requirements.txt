@@ -1,0 +1,6 @@
+opencv-python
+mediapipe==0.10.21
+plyer
+pystray
+Pillow
+numpy
